@@ -4,32 +4,26 @@ Repositório do projeto do Jogo da Velha com .NET MAUI
 - [https://www.youtube.com/playlist?list=PLHVpcBDJr5dlTaaogjFikUDrw1E6PlODf](https://www.youtube.com/watch?v=HCiwRZm_APo&list=PLHVpcBDJr5dmdDjPw11d9Iqhh0gX_laJR)
 
 ## Conteúdo das Videoaulas
-### VIDEOAULA: AULA 2 - CRIANDO APLICATIVOS COM .NET MAUI - APP MEU COMBUSTIVEL (45mim):
+### VIDEOAULA: AULA 3 - CRIANDO APLICATIVOS COM .NET MAUI - JOGO DA VELHA (43mim):
 - 00:00 Introdução
-- 00:52 Criação do Projeto
-- 05:00 Objetivo do Aplicativo
-- 06:39 Carregamento das Dependências
-- 08:10 Compilação e execução no Windows
-- 09:00 Execução do Windows e Android
-- 09:39 Como Executar no iOS
-- 10:31 Executar o Aplicativo no Celular
-- 12:15 Estrutura do Projeto
-- 12:55 Arquivos XAML e CS juntos
-- 14:00 Editando arquivo ```MainPage.xaml```
-- 17:27 Erros Comuns e Lista de Erros
-- 19:00 Editando arquivo ```MainPage.xaml.cs```
-- 21:59 Como Resolver Erro do InitializeComponent
-- 24:10 Declarando Componente ```Entry```
-- 25:13 Declarando Componente ```Button```
-- 26:20 Declarando Componente ```Label```
-- 27:03 Propriedades do Componente ```Entry```
-- 28:57 Adicionando Evento ```Clicked``` ao ```Button```
-- 32:18 Programando a Lógica do App
-- 32:45 Uso do Laço Try Catch
-- 33:23 Componente ```DisplayAlert```
-- 34:40 Obtendo Valores da Interface XAML
-- 35:55 Implementando a Regra de Negócio do App
-- 40:38 Adicionando Projeto ao Github
+- 01:11 Criação do Projeto
+- 03:33 Compilando App em Branco
+- 04:40 Estrutura do Projeto
+- 05:37 Editando a interface Gráfica
+- 06:40 Fundo Degradê
+- 09:55 Definição do Layout em ```Grid```
+- 11:43 Colocando ```Label``` na ```Grid```
+- 13:27 Colocando ```Button``` na ```Grid```
+- 15:40 Espaçamento entre Colunas da ```Grid```
+- 16:56 Definindo Estilos no XAML
+- 20:36 Adicionando Eventos no Botão
+- 21:53 Manipulador de Eventos no C#
+- 23:50 Entendo o parâmetro ```Sender```
+- 26:22 Implementando as Regras do Jogo
+- 29:18 Verificando quem Ganhou
+- 35:11 Zerando Jogo após o Término
+- 37:44 Impedindo o Jogador de Escolher uma Posição
+- 40:07 Colocando o Projeto no Github
 
 ## CURTIU MEU TRABALHO?
 Você pode me ajudar com um pix para tiago@tiago.blog.br 🍻
