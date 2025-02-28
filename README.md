@@ -1,4 +1,4 @@
-Repositório do projeto do Jogo da Velha com .NET MAUI
+Repositório do projeto do Jogo da Velha com .NET MAUI usando ```Grid```
 
 ## Sobre o curso de Desenvolvimento de Apps com .NET MAUI
 Essa é a segunda aula de 16 do nosso curso de desenvolvimento de aplicativos Android/Windows com .NET MAUI
