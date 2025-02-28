@@ -1,5 +1,10 @@
 Repositório do projeto do Jogo da Velha com .NET MAUI
 
+## Sobre o curso de Desenvolvimento de Apps com .NET MAUI
+Essa é a segunda aula de 16 do nosso curso de desenvolvimento de aplicativos Android/Windows com .NET MAUI
+- [Videoaula 2 - Treinando entrada, processamento e saída de Dados](https://github.com/tiagotas/MauiAppMeuCombustivel)
+- [Videoaula 4 - Navegação entre telas com Sistema de Login](https://github.com/tiagotas/MauiAppLogin)
+
 ## Playlist com todas as videoaulas de Apps com .NET MAUI
 - [https://www.youtube.com/playlist?list=PLHVpcBDJr5dlTaaogjFikUDrw1E6PlODf](https://www.youtube.com/watch?v=HCiwRZm_APo&list=PLHVpcBDJr5dmdDjPw11d9Iqhh0gX_laJR)
 
